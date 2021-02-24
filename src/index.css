@@ -11,3 +11,38 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+input {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  min-width: 350px;
+}
+
+button {
+  background-color: #e7e7e7;
+  border: none;
+  color: rgb(0, 0, 0);
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  display: block;
+  margin: 10px auto;
+}
+
+.danger {
+  color: rgb(243, 74, 74);
+}
+
+.success {
+  color: rgb(29, 240, 39);
+}
+
+.hide {
+  display: none;
+}
