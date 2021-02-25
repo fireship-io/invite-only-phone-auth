@@ -8,7 +8,13 @@ import { useAuthState } from 'react-firebase-hooks/auth';
 import { useCollectionData } from 'react-firebase-hooks/firestore';
 
 const firebaseConfig = {
- // your config
+  apiKey: 'AIzaSyD3pwhMvIdXNyK92Mt2QyUj2_3x2407jmY',
+  authDomain: 'fireship-demos.firebaseapp.com',
+  databaseURL: 'https://fireship-demos.firebaseio.com',
+  projectId: 'fireship-demos',
+  storageBucket: 'fireship-demos.appspot.com',
+  messagingSenderId: '454289704797',
+  appId: '1:454289704797:web:405ad440cdabffac940ab4',
 };
 
 if (!firebase.apps.length) {
