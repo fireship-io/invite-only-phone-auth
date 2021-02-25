@@ -1,6 +1,6 @@
 # 👋 Invite-only Phone Authentication with Firebase & React
 
-Use #FOMO to generate massive user growth by building an invite-only phone authentication system with Firebase. Inspiried by Clubhouse 👋. 
+Use #FOMO to generate massive user growth by building an invite-only phone authentication system with Firebase. Inspired by Clubhouse 👋. 
 
 [Watch on YouTube](https://youtu.be/yJ5agkia4o8)
 
